@@ -174,4 +174,4 @@ This contract stores and manages land ownership records and allows the following
 
 ## 👨‍💻 Author
 🔹 vikas    
-🔗 [LinkedIn](www.linkedin.com/in/c-vikas-30813a314) | [GitHub](https://github.com/chandra-vikas-05)
+🔗 [LinkedIn]( www.linkedin.com/in/c-vikas-30813a314 ) | [GitHub](https://github.com/chandra-vikas-05)
